@@ -62,3 +62,4 @@ __pycache__/
 *.docx
 *.db
 *.sqlite
+.streamlit/secrets.toml
